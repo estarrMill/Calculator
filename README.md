@@ -86,7 +86,7 @@ Example: `12 * 3 =` → `36`
 
 ~~ Author ~~
 
-**Oluwabiyi Bukola Esther**
+**Oluwabiyi, Bukola Esther**
 
 ~~ License ~~
 
